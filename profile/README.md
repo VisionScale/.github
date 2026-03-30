@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[MeterHub](https://meterhub.sun-praise.com) is an organization focusing on meter readings.
+VisionScale is an organization focusing on image digit pairing.
 
 <!--
 
